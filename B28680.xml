@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The banner of injustice and endlesse oppression displayed to the worlds view, or, The case of John Rayment, citizen and baker of London, stated who for these fifteen years hath been causlesly, maliciously, and wickedly sued in the law and most unjustly persecuted and imprisoned in the Fleet by the wicked prosecution of one John Johns ... / published by Iohn Rayment.</title>
+            <author>Rayment, John.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28680</idno><idno type="EEBO-CITATION">10603774</idno>
+  <idno type="VID">204743</idno>
+  <idno type="EEBO-PROQUEST">2240885544</idno>
+  
+            <idno type="STC">Wing R411A</idno>
+            <idno type="OCLC">10603774</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204743)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The banner of injustice and endlesse oppression displayed to the worlds view, or, The case of John Rayment, citizen and baker of London, stated who for these fifteen years hath been causlesly, maliciously, and wickedly sued in the law and most unjustly persecuted and imprisoned in the Fleet by the wicked prosecution of one John Johns ... / published by Iohn Rayment.</title>
+                  <author>Rayment, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Johns, John.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204743:1"/>
+            <pb n="1" facs="tcp:204743:1"/>
+            <head>THE Banner of Injustice, AND Endlesse Oppression, Displayed to the worlds view: OR, The CASE of <hi>John Rayment,</hi> Citizen and Baker of London, stated.</head>
+            <p>Who for these fifteen years hath been causlesly, malici<g ref="char:EOLhyphen"/>ously, and wickedly sued in the Law, and most unjustly persecuted and imprisoned in the Fleet, by the wicked prosecution of one <hi>John Johns,</hi> now one of the Paymasters for the Souldiers and Widdowes at Ely-house in <hi>Holborn, London.</hi>
+            </p>
+            <p>Published by <hi>Iohn Rayment,</hi> for the manifestation of the truth, sa<g ref="char:EOLhyphen"/>tisfaction to all honest, well-minded people, and for the vindication of his own innocency. From the Fleet this 24. of the third moneth called May, 1650.</p>
+            <q>
+               <l>Truth from Injustice may hap to reap some blame,</l>
+               <l>Yet truth shall stand, Injustice shall reap the shame. <bibl>
+                     <hi>Probatum est.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <p>THat it is the glory of a Nation to advance the free admi<g ref="char:EOLhyphen"/>nistration of Justice, Judgment, and Mercy in the Land,
+<note place="margin">Lev. 19.15.15. See Lev. 25.35, 46. 2 Chron. 19.5, 6, 7, 9. 1 Sam. 12.3.</note> is true: That it is the strict command of God imposed on all Nations (that professe the saving knowledge of him) so to do, is most true: That they are injoyned not to oppresse one another in judgement, nor to rule one over another with ri<g ref="char:EOLhyphen"/>gor, is as true: For which <hi>Samuel</hi> (the great Judge in Israel) is a perfect rule and example, who set all Israel at defiance to lay to his charge any act of injustice or oppression, or the receiving of any bribe or gift, (now called Fees;) By the practise of the contra<g ref="char:EOLhyphen"/>ry
+<pb n="2" facs="tcp:204743:2"/>not only my self, but millions of men and women in this Land are oppressed,
+<note place="margin">Witnesse the many Goals and prisons of cruelty in this Land, devised by the Devils-children for the murther<g ref="char:EOLhyphen"/>ing of poore and innocent men and women, as thousands have been.</note> inslaved, ruined, yea, destroyed in their E<g ref="char:EOLhyphen"/>states, Rights Liberties, and Lives, to the high displeasure of God, and dishonour of this Nation.</p>
+            <p>For the more clearer manifestation of the truth hereof to all men in the world, I have thought good to make a full (yet brief) relation of all my fifteen years troubles, vexations, and most unjust oppressions, suffered to the ruine of my Estate, and losse of my Liberty in these my aged and weak dayes, in and by reason of a most unjust Suit impiously and causlesly commenced by one <hi>John Johns</hi> (now one of the Clerks and Paymasters at Ely-House in Holborne) about fifteen yeares since against me, that then was an Inhabitant of the Parish of <hi>Ethelberts</hi> within Bishops-gate, London, above thirty years continuance, where I bore all Offi<g ref="char:EOLhyphen"/>ces both in my Parish and Company, and from the very first ap<g ref="char:EOLhyphen"/>peared most forward (and so have ever since continued) and free to advance the service and peace of the Nation in the Parliaments Cause; which is as followeth.</p>
+            <p>
+               <hi>Richard Iohns</hi> Merchant (brother to the said <hi>Iohn Iohns,</hi> being a young man of a very mean fortune, came as a Lodger to my house in the year, 1628, and there continued the space of seven years, where in all that time he had his diet, lodging, washing, and other necessaries free, without paying any thing for them; with whom I became partner in his Trade to Virginia, and to whom both I and my wife advanced a stock of money for mana<g ref="char:EOLhyphen"/>ging the Trade, and also lent him sundry times severall sums of money, and have stood bound for him severall times for four or five hundred pound at a time: At the end of seven years this <hi>Richard Johns</hi> fell sick in my house, and was then justly indebted to me (by an account made up by himselfe, not long before his death) somwhat above 700, l. who then upon his death-bed be<g ref="char:EOLhyphen"/>ing in perfect memory, and two or three dayes before his death in the presence of divers honest people, called his said brother <hi>Iohn Iohns</hi> to him, ordained him his Executor, and most strictly charged him to pay me the said 700. l. affirming then to all there present, that he had left a sufficient estate to pay all men with a good Surplusage, and charged the said <hi>Iohn Iohns</hi> to pay me first of all, which he then accordingly promised to do, and then say<g ref="char:EOLhyphen"/>ing,
+<pb n="3" facs="tcp:204743:2"/>I were a very villaine if I should deale otherwise then justly and honestly with our friend M. <hi>Rayment,</hi>
+               <note place="margin">Note, that <hi>John Johns</hi> hath con<g ref="char:EOLhyphen"/>fessed to divers, that his brother died worth 2200. l. all debts paid; and that all this was gain<g ref="char:EOLhyphen"/>ed by the blessing of God, and the friend<g ref="char:EOLhyphen"/>ly assistāce of Mr. <hi>John Rayment.</hi>
+               </note> and soon after this his brothers death, the said <hi>John Johns</hi> acknowledged, that his brother died of a good estate, and then payed me in part of my 700. l. due, the sum of 250. l. but then taking wicked counsell of some sons of <hi>Belial,</hi> (no doubt, but of some Law<g ref="char:EOLhyphen"/>yer or Atturney) he refused to pay me the rest, (having gotten all his brothers books into his custody) unlesse I could prove the debt remaining, being 450. l. Thereupon I commenced suit against him in Guild-hall, proved the debt and recovered the said remainder, being 450. l. the spirit of <hi>Iohns</hi> being here<g ref="char:EOLhyphen"/>by through evill counsell exasperated against me, (though un<g ref="char:EOLhyphen"/>justly) he files a Bill against me in 1636. in the Court of Re<g ref="char:EOLhyphen"/>quests, where I answered, and came to a hearing, and at hearing nothing being proved by <hi>Johns</hi> against me, instead of a just dismission, the Lord Privie Seal commits the matter unto Refer<g ref="char:EOLhyphen"/>rees, <hi>viz.</hi> M. <hi>Lee,</hi> and M. <hi>Smith,</hi> who by reason of <hi>Johns</hi> his tur<g ref="char:EOLhyphen"/>bulency of spirit, were constrained to return severall times sundry Certificates, and yet by all these severall Certificates they clearly proved and declared, that there was not any thing authentickly proved by <hi>Johns</hi> against me, either by Merchant<g ref="char:EOLhyphen"/>like books of Accompt, or by testimony,
+<note place="margin">M. <hi>Lees,</hi> and Mr. <hi>Smiths</hi> severall Certifi<g ref="char:EOLhyphen"/>cates.</note> and that I owed no<g ref="char:EOLhyphen"/>thing to <hi>Johns.</hi> Upon the return of the last of these Certifi<g ref="char:EOLhyphen"/>cates, <hi>Iohns</hi> thus receiving the foyle, makes means in a <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way to the Lord Privie Seale for another reference, and procu<g ref="char:EOLhyphen"/>red the matter to be referred unto Mr. <hi>Lee,</hi> and Mr. <hi>Northie,</hi> who also made divers Certificates, and then in their full and sinall Certificate, they thereby certifie, that there appeared to be nothing at all due to <hi>Iohns</hi> from me, but <hi>per contra;</hi>
+               <note place="margin">M. <hi>Lees,</hi> &amp; M. <hi>Nor<g ref="char:EOLhyphen"/>thies</hi> Cer<g ref="char:EOLhyphen"/>tificate.</note> that the said <hi>Iohns</hi> appeared to be justly indebted to me in the sum of 54. l. 7. c. 6. d. as by their Certificate (ready to be produced) more clearly appeareth. But before their returne then made of this their finall Certificate, the said <hi>Iohns</hi> finding his wicked unjust dealings discovered by those Referrees, makes his private addresse to the Lord Privy Seale again, and procures from him yet another reference in the cause, to three of the Clerks of the said Court of Requests, <hi>viz.</hi> M. <hi>Laine,</hi> M. <hi>Bickerstaffe,</hi> and one more, who most unjustly and corruptly without ever hearing
+<pb n="4" facs="tcp:204743:3"/>me, or any other for me, did forthwith certifie (no doubt but by vertue of <hi>Iohns</hi> Angells) that I was indebted to <hi>Iohn Johns</hi> in no lesse then 537. l. 19. s. 6. d. yet doubting of their grosse error committed by that Certificate, they submit the same to the wisdome of that Court, <hi>viz.</hi> to the Lord Privie Seal, and so left it doubtfull: The Court of Requests immediately after this being put downe (and the decease of the Lord Privy Seal) the said <hi>Iohn Iohns</hi> then sued me in the Court of Obstru<g ref="char:EOLhyphen"/>ctions, where also at the day of hearing nothing being proved against me by <hi>Iohns,</hi> instead of a just dismission, the cause was a<g ref="char:EOLhyphen"/>gaine by M. <hi>Prideaux</hi> referred to M. <hi>Page,</hi> (a Master in Chance<g ref="char:EOLhyphen"/>ry) in whose hands it rested a long time, and then <hi>Iohn Iohns</hi> moves the Court of Chancery to have other Witnesses exami<g ref="char:EOLhyphen"/>ned in the cause, and thereupon prefers another Bill in Chan<g ref="char:EOLhyphen"/>cery against me, which Bill being by me answered, then <hi>Johns</hi> moves to have the cause againe referred to the said Mr. <hi>Page,</hi> where after severall dayes of my tedious wearisome attendance, without any perusall of Books, or any other papers of proofe, (other then what was by <hi>Johns</hi> himself only perused) the said Master <hi>Page</hi> drawes up a Report, and thereby very modestly and truly certifieth, that <hi>John Johns</hi> had not in all that time pro<g ref="char:EOLhyphen"/>duced to him any Ledger Book, or Merchant-like Accompt, or any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uthentick proofe, whereby it might appeare that I was <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to him: Yet at the last in and by the said Report he most unjustly confirmes the false and unjust Report formerly made by the three Clerks of the Court of Requests,
+<note place="margin">Anno, 1646.</note> whereby they certifie me to be indebted to <hi>Johns</hi> 537. l. 19. s. 6. d.</p>
+            <p>This unjust Report of M. <hi>Pages</hi> being thus gained by <hi>Johns,</hi> he forthwith moves the Lords Commissioners for the Great. Seale, who were then the Earl of <hi>Manchester,</hi> and M. <hi>William Lenthall</hi> the Speaker of the House, who upon the said motion, and M. <hi>Pages</hi> Report, presently ordered, That I should bring in<g ref="char:EOLhyphen"/>to the Court the said 537. l. 19. s. 6. d. and that then the truth of the matter should be tried by them afterwards; (that is, whe<g ref="char:EOLhyphen"/>ther I did owe any thing to <hi>Iohn Iohns,</hi> or not, although in a<g ref="char:EOLhyphen"/>bove thirteen years suit and debate of the matter, there was ne<g ref="char:EOLhyphen"/>ver any thing justly proved against me to this day, nor that e<g ref="char:EOLhyphen"/>ver it appeared that I owed <hi>Iohns</hi> one penny:) Upon sight of
+<pb n="5" facs="tcp:204743:3"/>this unreasonable disorderly Order, I refused to yeeld any obe<g ref="char:EOLhyphen"/>dience unto it; thereupon I was taxed with sleighting the Or<g ref="char:EOLhyphen"/>der of Court, and then forthwith I was examined upon Interro<g ref="char:EOLhyphen"/>gatories to that effect, to which I answered, that I did not sleight the Orders of Court, but that my adversary <hi>Iohn Iohns</hi> had now more then thirteen years most maliciously, vexatiously and causlesly molested and sued me in severall Courts to my great damage, and that in all that time he had not proved penny, nor pennyworth against me, (as due from me to him) and that if ever he had, or yet can (by sufficient evidence) prove any thing justly due to him, I shall be ready to pay it without a<g ref="char:EOLhyphen"/>ny further trouble: After this my examination thus taken, <hi>Iohn Iohns</hi> presently moves the Court of Chancery for my commit<g ref="char:EOLhyphen"/>ment to the Fleet, which his unjust request was by the Speaker presently granted, and I was accordingly committed and im<g ref="char:EOLhyphen"/>prisoned in the Fleet, where I have now continued in close durance above eight and twenty moneths, without any just cause by them shewed hitherto for their so doing, that thus un<g ref="char:EOLhyphen"/>iustly committed me.</p>
+            <p>Where after some time of abode, I was by Councell learned, advised to commence a suit in Law fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lse imprisonment a<g ref="char:EOLhyphen"/>gainst the said <hi>Iohn Iohns, Henry Hopkins,</hi> the Warden of the Fleet, <hi>Thomas Rivet</hi> his Clerk, and <hi>Matthew Pits</hi> his servant, which being done accordingly,
+<note place="margin">May 8. 1650.</note> they then stayed me from gain<g ref="char:EOLhyphen"/>ing of a Judgement by an Injunction out of the Chancery (which Court of Chancery I alwayes apprehended to be or<g ref="char:EOLhyphen"/>dained for relief of the oppressed against cruell oppressors, and not to be a Court for support and strengthening of cruell op<g ref="char:EOLhyphen"/>pressors against poore oppressed and distressed men and wo<g ref="char:EOLhyphen"/>men,) and then to acquit themselves from further trouble,
+<note place="margin">May 9. 1650.</note> on the 9. of May, 1650. the Warden of the Fleet shewed, and read to me an Order of Chancery (as he called it) in the presence of his aforenamed Clerk and servant, for the restraining of me close presoner in my little chamber in the Fleet; but after the reading of the said Order, instead of confining me to my cham<g ref="char:EOLhyphen"/>ber, he the said Warden of the Fleet commanded his servants to lay hold of me, and have me into the loathsom dark Dungeon called the Common Wards of the Fleet, conceiving that by the
+<pb n="6" facs="tcp:204743:4"/>noysome stench and dampnesse of the place they should have soon gained a period to their unexpected trouble: But after seven dayes stay there, (things no wayes answering their cruell intentions and expectations) they then caused me to be returned to my former chamber of nine foot square, (furnished with mine owne goods) and there they caused me to be locked up close, with a padlock on the out-side of my door, but sithence they having taken off the Padlock, do still confine me close priso<g ref="char:EOLhyphen"/>ner to my chamber, and debar me of the aire, and benefit of the common Prison-yard, alotted by God to every creature to breath in.</p>
+            <p>Thus notwithstanding the dissolution of the head of tyranny, the Courts of Star-chamber and high Commission, by the Parli<g ref="char:EOLhyphen"/>ment declared, barbarous, cruell, and detestable, and that pri<g ref="char:EOLhyphen"/>soners confinement to their chambers is a cruelty, invented for the murthering and destroying of men, the whole cir<g ref="char:EOLhyphen"/>cumference of prisons being a confinement in all reason strict, and close enough, and that it is man-slaughter in any Goaler to confine any Fellon to closer restraint then ordinary before conviction, [as in the Case of Sir <hi>Richard Wiseman,</hi> and Sir <hi>Michael Green,</hi> who <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> murthered by eight yeares close re<g ref="char:EOLhyphen"/>straint in his chamber in the Fleet;] much lesse an honest Com<g ref="char:EOLhyphen"/>monwealths-man most wrongfully restrained: Yet this Goa<g ref="char:EOLhyphen"/>ler of the Fleet and his Substitutes assuming to themselves a tyrannous power, surpassing the late regall power, do use and abuse men committed to their custody, at their pleasure, and exact of them what Fees they please without controule, and confine men to their chambers, yea, drag them out of their chambers, place and displace them at their pleasure, upon the least private grudge or distaste by them taken against a Prisoner, either for his declaring their cruelties practised, or refusing to satisfie their greedy insatiate minds with such large illegall sums of money by them daily required of him for fees and chamber-rent.</p>
+            <p>But if Goalers be thus suffered still to oppresse and exact, then may they under colour of the prisoners non-payment of their exactions (bearing malice to a prisoner) drag them out of their chambers into their dungeons, or by close restraint
+<pb n="7" facs="tcp:204743:4"/>to their chambers and other misusage, murther and destroy them at their pleasure.</p>
+            <p>By reason of all which severall cruell oppressions, unjust proceedings in Courts, and excessive charges and expence of my estate in the Law for these fifteen years, I have been driven from my trade, ruined in my estate above 2000. l. and thereby inforced to fell the remainder of my houses and goods (to feed Lawyers, Atturneyes, Solicitors, and Goalers) in defence of in<g ref="char:EOLhyphen"/>nocency and truth; whereby I am now disabled to expresse my readinesse for the service of the State as formerly I have done, in freely advancing 300. l. for the reducing of Ireland, and by lending freely 200. l. upon the Publike Faith many years since, (as yet resting due to me from the State) as also maintaining men in their service upon my own charge formerly; of all which I am now constrained (by reason of these my troubles) to crave a speedy repayment by the State.</p>
+            <p>Thus may all men in me (as in a glasse) behold their owne miserable slavery to the wills of unjust and cruell men,
+<note place="margin">Note this I beseech you all ye Inhabi<g ref="char:EOLhyphen"/>tants of England.</note> and the ruine of their Estates, Liberties, and Lives, wrought by cor<g ref="char:EOLhyphen"/>rupt Judges, deceitfull Lawyers, and cruell <hi>Goalers,</hi> by whom (of being profitable members in this Common-wealth) they are made poore uselesse drones, yea, buried alive in Goals and Prisons, (a cruelty abhorred by Heathens) and thereby ever after disabled to serve the State.</p>
+            <p>Wherefore being left remedilesse and hopelesse of ever gaining justice and relief from those by whose unjust Reports and Orders I have all this time,
+<note place="margin">
+                  <hi>Rayment</hi> his hum<g ref="char:EOLhyphen"/>ble suit to the Par<g ref="char:EOLhyphen"/>liament.</note> and still do suffer wrongfully in the losse of my Estate and Liberty: I do therfore most humbly appeale to the high and honourable Court of Parliament, be<g ref="char:EOLhyphen"/>seeching them in the bowells of compassion to commiserate these my wrongfull sufferings, and according to the pious impartiall rules of justice and mercy, to call before them the said <hi>Iohn Iohns,</hi> commanding him to produce all such Bills, Bonds, Accompts, and Proofs, as he hath under my hand, or the hand of the said <hi>Richard Iohns,</hi> to manifest that (his falsly pre<g ref="char:EOLhyphen"/>tended) debt of 537. l. 19. s. 6. d. (if he have any) for which I stand unjustly committed to the prison of the Fleet, it having for these thirteen years clearly appeared, that he hath neither
+<pb n="8" facs="tcp:204743:5"/>Bill nor Bond, nor any accompt under my hand for any thing, nor that ever I owed him penny, or penny worth in all my life, that then upon the manifestation of this truth, this hono<g ref="char:EOLhyphen"/>rable Assembly will be pleased to order my discharge out of prison, with full reparation for my wrongfull sufferings and los<g ref="char:EOLhyphen"/>ses thereby sustained in my estate from the said <hi>Iohns, Hopkins, Rivet</hi> and <hi>Pits,</hi> and in the mean time to injoy my chamber qui<g ref="char:EOLhyphen"/>etly, and the free use of the Prison-yard, as others do; and that by justice the said <hi>Iohn Iohns</hi> may be made an example to deter all other such like evill minded, cruell, vexatious persons from troubling, molesting, and vexing honest quiet men caus<g ref="char:EOLhyphen"/>lesly in the Law, as I have been these many yeares, and many thousands in this Land are to this day, to the high displeasure of God, and dishonor of this Nation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204743:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
